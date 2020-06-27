@@ -1,4 +1,4 @@
-import { Button, Form, Input } from "antd";
+import { Button, Form, Input } from 'antd';
 
 const layout = {
   labelCol: { span: 8 },
